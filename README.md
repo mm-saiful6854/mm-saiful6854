@@ -1,22 +1,33 @@
-### Hi there 👋, I'm Md Saiful Islam
-#### A knowledge hunter, software engineer from Bangladesh
-I'm Md Saiful Islam, currently I'm working as a Software Engineer. I pursued BSc degree on Computer Science & Engineering major from Khulna University of Engineering & Technology.
+<h1 align="center">Hi 👋, I'm Md Saiful Islam</h1>
+<h3 align="center">A knowledge hunter, software engineer from Bangladesh</h3>
 
-I have felt blessed because I have started my engineering career since I was in my last semester of BSc degree. After that I got back to back two promotion and now I'm playing Team Lead role. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mm-saiful6854&label=Profile%20views&color=0e75b6&style=flat" alt="mm-saiful6854" /> </p>
 
-I love technologies and I believe in "Love What you do, do What you love"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mm-saiful6854" alt="mm-saiful6854" /></a> </p>
 
-- 🔭 I’m currently working on Spring boot and Vue js 
-- 🌱 I’m currently learning Redis (in memory Database) 
-- 👯 I’m looking to collaborate on Java Backend projects 
-- 💬 Ask me about Vue.js, java and Spring boot 
-- 📫 How to reach me: mail me 
+- 🔭 I’m currently working on **Spring boot and Vue js**
 
+- 🌱 I’m currently learning **Redis (in memory Database)**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mm-saiful6854)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-saiful-islam-it-person/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11509328/md-saiful-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://knowinforms.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/saiful6854/)  
+- 👯 I’m looking to collaborate on **Java Backend projects**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mm-saiful6854)](https://github.com/ryo-ma/github-profile-trophy)
+- 📝 I regularly write articles on [https://knowinforms.blogspot.com/](https://knowinforms.blogspot.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mm-saiful6854&show_icons=true)  
+- 💬 Ask me about **Vue.js, java and Spring boot**
 
-![Profile views](https://gpvc.arturio.dev/mm-saiful6854)  
+- 📫 How to reach me **cse.saiful2119@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/md-saiful-islam-it-person/overlay/1635541316040/single-media-viewer?type=DOCUMENT&profileId=ACoAACSQ1jgBaN8bkxWjy5vlj1v-wDx6lt7skVI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPCJXNx0rRJOL0OwfFHFRQQ%3D%3D](https://www.linkedin.com/in/md-saiful-islam-it-person/overlay/1635541316040/single-media-viewer?type=DOCUMENT&profileId=ACoAACSQ1jgBaN8bkxWjy5vlj1v-wDx6lt7skVI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPCJXNx0rRJOL0OwfFHFRQQ%3D%3D)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-saiful-islam-it-person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saiful-islam-it-person" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/md-saiful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-saiful-islam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saiful6854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiful6854" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/md.saiful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="md.saiful islam" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm-saiful6854&show_icons=true&locale=en" alt="mm-saiful6854" /></p>
