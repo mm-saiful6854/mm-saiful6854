@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mm-saiful6854" alt="mm-saiful6854" /></a> </p>
 
-- 🔭 I’m currently working on **Spring boot and Vue js**
+- 🔭 I’m currently working on **Spring boot, Vue js and microservices environment**
 
-- 🌱 I’m currently learning **Redis (in memory Database)**
+- 🌱 I’m currently learning **Docker, Kuberrnetes, and Kafka**
 
 - 👯 I’m looking to collaborate on **Java Backend projects**
 
